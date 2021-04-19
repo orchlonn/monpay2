@@ -1,1 +1,1 @@
-# monpay2 ll
+# monpay2 (static website)
